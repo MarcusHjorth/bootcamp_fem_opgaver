@@ -46,6 +46,7 @@ label {
 	background-color: #eee;
 	border: 1px solid #aaa;
 	border-radius: 5px;
+	cursor: pointer;
 }
 
 #my-button:focus {
