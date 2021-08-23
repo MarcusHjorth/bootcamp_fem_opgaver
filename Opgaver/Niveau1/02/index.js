@@ -7,4 +7,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
         return 0;
       }
       console.log(getRectArea(4, 3));
+      
 });
