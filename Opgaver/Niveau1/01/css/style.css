@@ -52,3 +52,11 @@ label {
 #my-button:focus {
 	outline: none;
 }
+
+.newBackround {
+	padding: 8px;
+	background-color: #338ab7;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+	cursor: pointer;
+}
