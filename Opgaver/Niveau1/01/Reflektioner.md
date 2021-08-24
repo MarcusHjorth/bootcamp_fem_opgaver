@@ -1,0 +1,1 @@
+Jeg startede med at lave en funktion med en if statement selvom det var mod opgavebeskrivelsen da jeg havde lidt svært ved af finde ud af hvordan jeg ellers skulle gøre det, men så prøvede jeg med denne her toggle.
